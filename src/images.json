@@ -1,0 +1,115 @@
+[
+  {
+    "id": 1,
+    "name": "Meghan Markle",
+    "clicked": false,
+    "image":
+      "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-516198532-1498834400.jpg?crop=1xw:1xh;center,top&resize=480:*"
+  },
+  {
+    "id": 2,
+    "name": "Justin Beiber",
+    "clicked": false,
+    "image":
+      "https://hips.hearstapps.com/ell.h-cdn.co/assets/17/30/1600x2403/gettyimages-494227692.jpg?resize=480:*"
+  },
+  {
+    "id": 3,
+    "name": "Gigi Hadid",
+    "clicked": false,
+    "image":
+      "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-692742676-1498834400.jpg?crop=1xw:1xh;center,top&resize=480:*"
+  },
+  {
+    "id": 4,
+    "name": "Steve Jobs",
+    "clicked": false,
+    "image":
+      "https://static.boredpanda.com/blog/wp-content/uuuploads/celebrities-when-they-were-young/celebrities-when-they-were-young-5.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Emma Watson",
+    "clicked": false,
+    "image":
+      "http://wetpaint.com/wp-content/uploads/2015/03/w310_Emma-Watson-1371862316-750x522-1436905073.jpg"
+  },
+  {
+    "id": 6,
+    "name": "JIM CARREY",
+    "clicked": false,
+    "image":
+    "https://s2.r29static.com//bin/entry/1c5/x,80/1350747/image.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Leo",
+    "clicked": false,
+    "image":
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqz1ThSsMAcsdfAFRB8SggBde-dUslQpW5ZbkpSjnWepOAS8NpBg"
+  },
+  {
+    "id": 8,
+    "name": "Brad Pitt",
+    "clicked": false,
+    "image":
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0MpQAfInTeX-1UX_PnQhCwakw3xZSKK3MhS9_jjaBb3ma9cdzEA"
+  },
+  {
+    "id": 9,
+    "name": "Kanye",
+    "clicked": false,
+    "image":
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTpEzxwz27ZN9qAiIDk8QFJOY0Xy2N3bQzUtwVEzKDedvZeCYefQ"
+  },
+  {
+    "id": 10,
+    "name": "Johnny Depp",
+    "clicked": false,
+    "image":
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKw5dlmnlksaFSikkdW00N1gBmLQX_oyLHE3K9AhgCRM9Ywzqx"
+  },
+  {
+    "id": 11,
+    "name": "Mr Bean",
+    "clicked": false,
+    "image":
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwuojAdNxwJBzAXqFBv8fLsZv-NKDk346GiEy8hNvsI0ClZmJWfA"
+  },
+  {
+    "id": 12,
+    "name": "Kate Winslet",
+    "clicked": false,
+    "image":
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbxt2f-Vluc56z1aM4Ef-vc-a1Ozxi5ZVjxEKh8HxrJ6BR2sHoLg"
+  },
+  {
+    "id": 13,
+    "name": "Jennifer Lawrence",
+    "clicked": false,
+    "image":
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwVRJEj8ecs3wCN0sjk-KNv1pzxbr99vo1Cd0HXo5tXQA1gOlY"
+  },
+  {
+    "id": 14,
+    "name": "Tom Hanks",
+    "clicked": false,
+    "image":
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWIJw6-LcbEXMddYFmsmubRBpDFwLXgCaY4uKbzEGuGGfoFhhcHw"
+  },
+  {
+    "id": 15,
+    "name": "Robert D J",
+    "clicked": false,
+    "image":
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8sMej5nbmpbk6yy1TGWg28golOtJjWlrURDITs4Zcq2qsSiim"
+  },
+  {
+    "id": 16,
+    "name": "John Cena",
+    "clicked": false,
+    "image":
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbBldWqjNSCaGR1V5IwlC1nb9VAGigbi1H8lUZPRxFBZlwIv_PcQ"
+  }
+]
+
